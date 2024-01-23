@@ -203,6 +203,7 @@ p{
             justify-content: center;
             align-items: center;
             gap: 15px;
+            background-color: red;
             p{
                 color: #3C1371;
             }
