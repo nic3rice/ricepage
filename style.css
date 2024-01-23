@@ -91,6 +91,7 @@ p{
             color: #3C1371;
             font-weight: 500;
             font-size: 15pt;
+            width: 100%; 
         }
         .left {
             text-align: left;
